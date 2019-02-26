@@ -1,5 +1,5 @@
 # Best Practices for Deep Natural Language Processing
-A Repo to store articles related to Best Practices in Deep NLP
+A Repo to store articles related to Best Practices in Deep NLP(and Some General ML)
 
 1) Deep Learning for NLP Best Practices - Sebastian Ruder
    
